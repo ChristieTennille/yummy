@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@google/generative-ai": "^0.22.0",
+    "firebase-admin": "^13.1.0",
+    "firestore": "^1.1.6",
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.13.3"
+  },
+  "devDependencies": {
+    "firebase": "^11.4.0"
+  }
+}
